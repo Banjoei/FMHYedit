@@ -306,6 +306,7 @@
 * [JacksonPollock](https://www.jacksonpollock.org/) - *Splatter Painting / Click to Change Color*
 * [paint.wtf](https://paint.wtf/) - *Have an AI Judge your Art* 
 * [ArtVote](https://artvote.net/) - *Judge Art*
+* [30 Dollar Website](https://gdcolon.com/%F0%9F%97%BF) - *Don't You Lecture Me With Your 30 Dollar Haircut Meme Generator*
 * [MakePrintPlay](https://makeprintplay.com/) or [XWords](https://www.xwords-generator.de/en) - *Crossword Puzzle Creator*
 * [MakeAWordSearch](http://www.makeawordsearch.net/) - *Word Search Creator*
 * [JamisBuck](https://www.jamisbuck.org/mazes/) - *Maze Algorithms*
